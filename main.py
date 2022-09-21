@@ -3,5 +3,5 @@ def close10(x,y):
          return y
     elif abs(10-x) < abs(10-y):
         return x
-    else: abs(x==y)
-    return 0
+    else: 
+        return 0
